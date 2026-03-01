@@ -52,4 +52,8 @@ Here is a pre-start checklist:
 
 ## Implementation
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+To test the application run following commands in your local repository:
+~~~
+  docker build -t hivebox .
+  docker run hivebox
+~~~
